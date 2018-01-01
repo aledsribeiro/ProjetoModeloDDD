@@ -1,0 +1,7 @@
+c:\users\aleds\documents\visual studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Aplication\bin\Debug\ProjetoModeloDDD.Aplication.dll
+c:\users\aleds\documents\visual studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Aplication\bin\Debug\ProjetoModeloDDD.Aplication.pdb
+c:\users\aleds\documents\visual studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Aplication\obj\Debug\ProjetoModeloDDD.Aplication.csprojResolveAssemblyReference.cache
+c:\users\aleds\documents\visual studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Aplication\obj\Debug\ProjetoModeloDDD.Aplication.dll
+c:\users\aleds\documents\visual studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Aplication\obj\Debug\ProjetoModeloDDD.Aplication.pdb
+C:\Users\aleds\documents\visual studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Aplication\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\aleds\documents\visual studio 2017\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Aplication\bin\Debug\ProjetoModeloDDD.Domain.pdb
